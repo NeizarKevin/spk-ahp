@@ -11,7 +11,7 @@
 - Klik go untuk mulai import database
 
 # RUNNING PROGRAM
-- Ketikkan http://localhost/ahp-crips di browser
+- Ketikkan http://localhost/Ahp_sub di browser
 - Jika ada dialog login masukkan user dan pass : admin
 
 # CARA UBAH NAMA DATABASE (jika diperlukan)
