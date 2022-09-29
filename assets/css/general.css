@@ -1,0 +1,43 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 70px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 40px;
+  
+}
+
+.footer .container p {
+  margin: 10px 0;
+}
+
+.mtop{
+    margin-top: 10px;
+}
+.aw{
+    width: auto;
+}
+
+.page-header{
+    margin-top: 0;
+    padding-bottom: 0;
+}
+.page-header h1{
+    margin-top: 0;
+}
+.panel-footer .pagination{
+    margin: 0;
+}
+.oxa{
+    overflow-x: auto;
+}
